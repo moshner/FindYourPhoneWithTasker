@@ -1,6 +1,6 @@
 # Find Your Phone With Tasker
 
-![Icon for project][icon-phone-search]
+<img src="icon-phone-search--black.png" width="72" height="108" title="Find your phone icon" />
 
 **Problem**: I frequently misplace my phone and have no phone with which to call it.
 
@@ -78,5 +78,3 @@ Detailed Steps
 --------------
 
 1. TODO
-
-[icon-phone-search]: /icon-phone-search--black.png "Find your phone"
