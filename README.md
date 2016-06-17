@@ -26,12 +26,12 @@ Requirements
 Detailed Steps
 --------------
 
-** Kill Music **
+### Kill Music
 
 Make this task first so that when you are ready to test the other actions/tasks you can easily stop the music.
 1. Add Media: Music Stop
 
-** Find Phone **
+### Find Phone
 
 1. Create a new task and call it Find Phone.
 2. Add Plugin: Secure Settings.
